@@ -24,6 +24,9 @@ http://stackoverflow.com/questions/12032583/what-is-the-definitive-way-to-instal
 
 Installed autojump & added a line in .zshrc
  [[ -s `brew --prefix`/etc/autojump.sh ]] && . `brew --prefix`/etc/autojump.sh
+ see http://www.youtube.com/watch?v=Me6UrDmAeYs
+ 
+ 
  
  
 
