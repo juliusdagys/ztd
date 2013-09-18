@@ -18,3 +18,8 @@ $ brew install rbenv ruby-build
 export PATH=$HOME/.rbenv/bin:$PATH
 eval "$(rbenv init -)"
 
+##ZSH
+upgrade to 5.0.2 via Homebrew and setup as in
+http://stackoverflow.com/questions/12032583/what-is-the-definitive-way-to-install-upgrade-set-the-default-version-of-zsh
+
+
