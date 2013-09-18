@@ -22,4 +22,8 @@ eval "$(rbenv init -)"
 upgrade to 5.0.2 via Homebrew and setup as in
 http://stackoverflow.com/questions/12032583/what-is-the-definitive-way-to-install-upgrade-set-the-default-version-of-zsh
 
+Installed autojump & added a line in .zshrc
+ [[ -s `brew --prefix`/etc/autojump.sh ]] && . `brew --prefix`/etc/autojump.sh
+ 
+ 
 
