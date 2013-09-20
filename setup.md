@@ -26,6 +26,11 @@ Installed autojump & added a line in .zshrc
  [[ -s `brew --prefix`/etc/autojump.sh ]] && . `brew --prefix`/etc/autojump.sh
  see http://www.youtube.com/watch?v=Me6UrDmAeYs
  
+ ##ides to reconsile .yadr VIM and spf13
+ http://evanescentcoder.blogspot.com/2012/10/a-development-setup-using-macvimzshtmux.html
+ 
+ 
+ 
  
  
  
