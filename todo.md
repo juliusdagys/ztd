@@ -6,11 +6,6 @@ ctrl + SHIFT + d : toggle task completed
 + sumokėt už elektrą @done (2012-09-25 16:33)
 - sąskaitą Toniui
 
-# p/Medilita
-+ setup meeting with Julius cc: Berta @Savanoriu 25 @done (2012-09-25 10:57)
-- email Juliui gipsai.lt atliktinų darbų sąrašą
-- patikrinti gipsai.lt aha.lt hostingo FTP prisijungimus
-
 # p/Exterus  
 + mk user Asta Macevičiūtė @done (2012-09-25 14:02)
 - parodyt kaip naudotis @office
