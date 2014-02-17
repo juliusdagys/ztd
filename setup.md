@@ -29,7 +29,9 @@ Installed autojump & added a line in .zshrc
  ##ides to reconsile .yadr VIM and spf13
  http://evanescentcoder.blogspot.com/2012/10/a-development-setup-using-macvimzshtmux.html
  
+ ##SSH SETUP
  
+ Link: http://www.linuxproblem.org/art_9.html
  
  
  
